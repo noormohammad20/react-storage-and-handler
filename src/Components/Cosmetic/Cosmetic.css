@@ -1,0 +1,7 @@
+.product{
+    border: 3px solid slategrey;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 30;
+    background-color: azure;
+}
