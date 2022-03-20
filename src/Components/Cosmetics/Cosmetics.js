@@ -1,5 +1,5 @@
 import React from 'react'
-import { add } from '../shoes/calculate'
+import { add } from '../../utilities/calculate'
 
 const Cosmetics = () => {
     const first = 55
